@@ -9,3 +9,4 @@ my-http-server/.settings/org.eclipse.m2e.core.prefs
 my-http-server/.settings/org.eclipse.jdt.core.prefs
 my-http-server/.settings/org.eclipse.jdt.apt.core.prefs
 my-http-server/.project
+my-http-server/target
