@@ -1,0 +1,18 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>my-http-server</groupId>
+	<artifactId>my-http-server</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>my-http-server</name>
+	<description>my-http-server</description>
+	<dependencies>
+		<!-- https://mvnrepository.com/artifact/com.sun.net.httpserver/http -->
+		<dependency>
+			<groupId>com.sun.net.httpserver</groupId>
+			<artifactId>http</artifactId>
+			<version>20070405</version>
+		</dependency>
+	</dependencies>
+</project>
