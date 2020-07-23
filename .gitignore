@@ -1,0 +1,11 @@
+
+my-http-server/.classpath
+my-http-server/target/classes/META-INF/maven/my-http-server/my-http-server/pom.xml
+my-http-server/target/classes/META-INF/maven/my-http-server/my-http-server/pom.properties
+my-http-server/target/classes/META-INF/MANIFEST.MF
+my-http-server/target/classes/com/my/simple/http/server/MyHttpServer.class
+my-http-server/target/classes/com/my/simple/http/server/MyHttpHandler.class
+my-http-server/.settings/org.eclipse.m2e.core.prefs
+my-http-server/.settings/org.eclipse.jdt.core.prefs
+my-http-server/.settings/org.eclipse.jdt.apt.core.prefs
+my-http-server/.project
